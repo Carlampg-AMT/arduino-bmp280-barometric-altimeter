@@ -65,7 +65,7 @@ It also provides practical experience in Arduino programming, electronic circuit
 
 ## Author
 
-Carl Daniel P. Ampong 
+Carl Ampong 
 
 Associate in Aircraft Maintenance Technology Student
 
